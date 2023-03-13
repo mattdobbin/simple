@@ -1,3 +1,3 @@
 This documentation describes how to use the Patrick Zebra toothbrush.
 
-Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees. MAIN BRANCH CHANGE
+Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees.
